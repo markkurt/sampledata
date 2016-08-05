@@ -40,8 +40,6 @@ Will create the last graph above in a directory called `output` (that must exist
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
   1. Add datasets to your list of dependencies in `mix.exs`:
 
         def deps do
